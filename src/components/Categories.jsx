@@ -8,7 +8,7 @@ const Categories = () => {
       <div className="bg-white dark:bg-gray-800">
         <div className="flex flex-wrap justify-center">
           {/* 1st category - hats section */}
-          <div className="w-60 m-4 bg-white rounded-lg shadow-md dark:bg-gray-800 border-black border">
+          <div className="w-60 m-4 bg-white shadow-md dark:bg-gray-800 border-black border rounded-tl-xl rounded-br-xl">
             <img
               className="p-8 rounded-t-lg w-60 h-60 zoom"
               src="https://i.postimg.cc/K80vVscW/hats.png"
@@ -26,7 +26,7 @@ const Categories = () => {
             </div>
           </div>
           {/* 2nd category - jackets section */}
-          <div className="w-60 m-4 bg-white rounded-lg shadow-md dark:bg-gray-800 border-black border">
+          <div className="w-60 m-4 bg-white shadow-md dark:bg-gray-800 border-black border rounded-tl-xl rounded-br-xl">
             <img
               className="p-8 rounded-t-lg w-60 h-60 zoom"
               src="https://i.postimg.cc/xdYQ9J9h/jackets.png"
@@ -44,7 +44,7 @@ const Categories = () => {
             </div>
           </div>
           {/* 3rd category - sneakers section */}
-          <div className="w-60 m-4 bg-white rounded-lg shadow-md dark:bg-gray-800 border-black border">
+          <div className="w-60 m-4 bg-white shadow-md dark:bg-gray-800 border-black border rounded-tl-xl rounded-br-xl">
             <img
               className="p-8 rounded-t-lg w-60 h-60 zoom"
               src="https://i.postimg.cc/k5qtjd0V/sneakers.jpg"
@@ -62,7 +62,7 @@ const Categories = () => {
             </div>
           </div>
           {/* 4th category - formals section */}
-          <div className="w-60 m-4 bg-white rounded-lg shadow-md dark:bg-gray-800 border-black border">
+          <div className="w-60 m-4 bg-white shadow-md dark:bg-gray-800 border-black border rounded-tl-xl rounded-br-xl">
             <img
               className="p-8 rounded-t-lg w-60 h-60 zoom"
               src="https://i.postimg.cc/QCvcpxwp/formals.png"
@@ -80,7 +80,7 @@ const Categories = () => {
             </div>
           </div>
           {/* 5th category - joggers section */}
-          <div className="w-60 m-4 bg-white rounded-lg shadow-md dark:bg-gray-800 border-black border">
+          <div className="w-60 m-4 bg-white shadow-md dark:bg-gray-800 border-black border rounded-tl-xl rounded-br-xl">
             <img
               className="p-8 rounded-t-lg w-60 h-60 zoom"
               src="https://i.postimg.cc/gJxQQ1Rp/joggers.jpg"
@@ -98,7 +98,7 @@ const Categories = () => {
             </div>
           </div>
           {/* 6th category - hoodies section */}
-          <div className="w-60 m-4 bg-white rounded-lg shadow-md dark:bg-gray-800 border-black border">
+          <div className="w-60 m-4 bg-white shadow-md dark:bg-gray-800 border-black border rounded-tl-xl rounded-br-xl">
             <img
               className="p-8 rounded-t-lg w-60 h-60 zoom"
               src="https://i.postimg.cc/d3wbJw4j/hoodies.png"
@@ -120,7 +120,7 @@ const Categories = () => {
         </div>
         <div className="flex flex-wrap justify-center">
           {/* 7th category - women section */}
-          <div className="w-80 m-4 bg-white rounded-lg shadow-md dark:bg-gray-800 border-black border">
+          <div className="w-80 m-4 bg-white shadow-md dark:bg-gray-800 border-black border rounded-t-xl">
             <img
               className="p-8 rounded-t-lg "
               src="https://i.postimg.cc/xCjrHvmV/women.png"
@@ -138,7 +138,7 @@ const Categories = () => {
             </div>
           </div>
           {/* 8th category - mens section */}
-          <div className="w-80 m-4 bg-white rounded-lg shadow-md dark:bg-gray-800 border-black border">
+          <div className="w-80 m-4 bg-white shadow-md dark:bg-gray-800 border-black border rounded-t-xl">
             <img
               className="p-8 rounded-t-lg "
               src="https://i.postimg.cc/MKyB1DHK/men.jpg"

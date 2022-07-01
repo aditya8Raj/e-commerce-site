@@ -1,16 +1,7 @@
 import React from "react";
 import Navbar from "../components/Navbar";
-import {
-  signInWithGooglePopup,
-  createUserDocumentFromAuth,
-} from "../firebase/firebase";
 
 const SignIn = () => {
-  const logGoogleUser = async () => {
-    const { user } = await signInWithGooglePopup();
-    createUserDocumentFromAuth(user);
-  };
-
   return (
     <>
       <Navbar />
@@ -46,7 +37,6 @@ const SignIn = () => {
             <button
               type="button"
               className="text-black hover:text-white border-black hover:bg-black focus:ring-4 focus:outline-none focus:ring-black font-extrabold rounded-lg text-sm inline-flex dark:border-black dark:text-white dark:hover:text-white dark:hover:bg-black dark:focus:black border-2 pl-4 pt-2 pb-2 pr-4 text-center mr-2 mb-2 ml-4"
-              onClick={logGoogleUser}
             >
               sign in with google
             </button>
@@ -98,5 +88,4 @@ const SignIn = () => {
     </>
   );
 };
-
 export default SignIn;
