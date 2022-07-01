@@ -1,11 +1,14 @@
 import React from "react";
 import Navbar from "../components/Navbar";
-import { signInWithGooglePopup } from "../firebase/firebase";
+import {
+  signInWithGooglePopup,
+  createUserDocumentFromAuth,
+} from "../firebase/firebase";
 
 const SignIn = () => {
   const logGoogleUser = async () => {
-    const response = await signInWithGooglePopup();
-    console.log(response);
+    const { user } = await signInWithGooglePopup();
+    createUserDocumentFromAuth(user);
   };
 
   return (
