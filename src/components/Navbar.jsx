@@ -12,9 +12,6 @@ const navbar = () => {
           <Link to="/">
             <Navbar.Brand>
               <img src={logo} className="mr-3 h-20 sm:h-28" alt="logo" />
-              <span className="self-center whitespace-nowrap text-xl font-semibold dark:text-white">
-                Juice Shop
-              </span>
             </Navbar.Brand>
           </Link>
           <Navbar.Toggle />
