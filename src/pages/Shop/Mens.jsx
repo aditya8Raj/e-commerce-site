@@ -13,7 +13,7 @@ const Mens = () => {
           <div className="p-3 bg-white dark:bg-gray-800">
             <img
               className="w-48 h-64 hover:border-4 hover:border-black"
-              src="https://i.postimg.cc/pTKqfrtD/floralshirt.png"
+              src="https://i.ibb.co/c2qFyJp/floralshirt.png"
               alt="floraltshirt-img"
             />
             <p className="text-left text-lg ">floral shirt</p>
@@ -23,7 +23,7 @@ const Mens = () => {
           <div className="p-3 bg-white dark:bg-gray-800">
             <img
               className="w-48 h-64 hover:border-4 hover:border-black"
-              src="https://i.postimg.cc/Qx807jYT/camovest.png"
+              src="https://i.ibb.co/VYSwv7c/camovest.png"
               alt="camovest-img"
             />
             <p className="text-left text-lg">camo vest</p>
@@ -33,7 +33,7 @@ const Mens = () => {
           <div className="p-3 bg-white dark:bg-gray-800">
             <img
               className="w-48 h-64 hover:border-4 hover:border-black"
-              src="https://i.postimg.cc/zfgjNvv9/yellowtshirt.png"
+              src="https://i.ibb.co/fd2d14m/yellowtshirt.png"
               alt="yellotshirt-img"
             />
             <p className="text-left text-lg">yellow t-shirt</p>
@@ -43,7 +43,7 @@ const Mens = () => {
           <div className="p-3 bg-white dark:bg-gray-800">
             <img
               className="w-48 h-64 hover:border-4 hover:border-black"
-              src="https://i.postimg.cc/NMvxjtrL/whiteandblacktshirt.png"
+              src="https://i.ibb.co/PCFWq3c/whiteandblacktshirt.png"
               alt="whiteandblacktshirt-img"
             />
             <p className="text-left text-lg">white & black t-shirt</p>
@@ -53,7 +53,7 @@ const Mens = () => {
           <div className="p-3 bg-white dark:bg-gray-800">
             <img
               className="w-48 h-64 hover:border-4 hover:border-black"
-              src="https://i.postimg.cc/1t46RyG1/adidastshirt.png"
+              src="https://i.ibb.co/K0599yv/adidastshirt.png"
               alt="adidastshirt-img"
             />
             <p className="text-left text-lg">adidas t-shirt</p>
@@ -63,7 +63,7 @@ const Mens = () => {
           <div className="p-3 bg-white dark:bg-gray-800">
             <img
               className="w-48 h-64 hover:border-4 hover:border-black"
-              src="https://i.postimg.cc/zB6NbYQg/roundsunglasses.png"
+              src="https://i.ibb.co/XztQL0Q/roundsunglasses.png"
               alt="roundsunglasses-img"
             />
             <p className="text-left text-lg">round sunglasses</p>
