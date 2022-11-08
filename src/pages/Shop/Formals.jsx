@@ -12,7 +12,7 @@ const Formals = () => {
           <div className="p-3 bg-white dark:bg-gray-800">
             <img
               className="w-48 h-64 hover:border-4 hover:border-black"
-              src="https://i.postimg.cc/sDrdmjJD/blueformalpants.png"
+              src="https://i.ibb.co/WxMNwDF/blueformalpants.png"
               alt="blueformalpants-img"
             />
             <p className="text-left text-lg">blue formal pants</p>
@@ -22,7 +22,7 @@ const Formals = () => {
           <div className="p-3 bg-white dark:bg-gray-800">
             <img
               className="w-48 h-64 hover:border-4 hover:border-black"
-              src="https://i.postimg.cc/FHH6C7km/womenformals.png"
+              src="https://i.ibb.co/zb7YfWS/womenformals.png"
               alt="womenformals-img"
             />
             <p className="text-left text-lg">women formal (set)</p>
@@ -32,7 +32,7 @@ const Formals = () => {
           <div className="p-3 bg-white dark:bg-gray-800">
             <img
               className="w-48 h-64 hover:border-4 hover:border-black"
-              src="https://i.postimg.cc/mkSd8sbt/navyblueformals.png"
+              src="https://i.ibb.co/84zvykk/navyblueformals.png"
               alt="navyblueformals-img"
             />
             <p className="text-left text-lg">navy blue formal</p>
@@ -42,7 +42,7 @@ const Formals = () => {
           <div className="p-3 bg-white dark:bg-gray-800">
             <img
               className="w-48 h-64 hover:border-4 hover:border-black"
-              src="https://i.postimg.cc/fy5KYfKd/formalshoes.png"
+              src="https://i.ibb.co/bsRwQRP/formalshoes.png"
               alt="formalshoes-img"
             />
             <p className="text-left text-lg">brown formal shoes</p>
@@ -52,7 +52,7 @@ const Formals = () => {
           <div className="p-3 bg-white dark:bg-gray-800">
             <img
               className="w-48 h-64 hover:border-4 hover:border-black"
-              src="https://i.postimg.cc/przy14Bj/graysuitandjacket.png"
+              src="https://i.ibb.co/f0DDg97/graysuitandjacket.png"
               alt="graysuitandjacket-img"
             />
             <p className="text-left text-lg">gray suit & jacket</p>
@@ -62,7 +62,7 @@ const Formals = () => {
           <div className="p-3 bg-white dark:bg-gray-800">
             <img
               className="w-48 h-64 hover:border-4 hover:border-black"
-              src="https://i.postimg.cc/Njz2N3hN/formalbluesuit.png"
+              src="https://i.ibb.co/5Tt6scf/formalbluesuit.png"
               alt="formalbluesuit-img"
             />
             <p className="text-left text-lg">formal blue suit</p>
