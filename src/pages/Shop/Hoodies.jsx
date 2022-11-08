@@ -12,7 +12,7 @@ const Hoodies = () => {
           <div className="p-3 bg-white dark:bg-gray-800">
             <img
               className="w-48 h-64 hover:border-4 hover:border-black"
-              src="https://i.postimg.cc/t4KpKK0B/printedhoodie.png"
+              src="https://i.ibb.co/NSmNk6J/printedhoodie.png"
               alt="printedhoodie-img"
             />
             <p className="text-left text-lg">printed hoodie</p>
@@ -22,7 +22,7 @@ const Hoodies = () => {
           <div className="p-3 bg-white dark:bg-gray-800">
             <img
               className="w-48 h-64 hover:border-4 hover:border-black"
-              src="https://i.postimg.cc/44Hkg85M/woolenhoodie.png"
+              src="https://i.ibb.co/hF4zCq6/woolenhoodie.png"
               alt="woolenhoodie-img"
             />
             <p className="text-left text-lg">woollen hoodie</p>
@@ -32,7 +32,7 @@ const Hoodies = () => {
           <div className="p-3 bg-white dark:bg-gray-800">
             <img
               className="w-48 h-64 hover:border-4 hover:border-black"
-              src="https://i.postimg.cc/cJz9kSVJ/hoodieblack.png"
+              src="https://i.ibb.co/qsTjcrZ/hoodieblack.png"
               alt="hoodieblack-img"
             />
             <p className="text-left text-lg">black hoodie</p>
@@ -42,7 +42,7 @@ const Hoodies = () => {
           <div className="p-3 bg-white dark:bg-gray-800">
             <img
               className="w-48 h-64 hover:border-4 hover:border-black"
-              src="https://i.postimg.cc/WbRv7SfM/yellohoodie.png"
+              src="https://i.ibb.co/qdDwr4s/yellohoodie.png"
               alt="yellowhoodie-img"
             />
             <p className="text-left text-lg">yellow hoodie</p>
@@ -52,7 +52,7 @@ const Hoodies = () => {
           <div className="p-3 bg-white dark:bg-gray-800">
             <img
               className="w-48 h-64 hover:border-4 hover:border-black"
-              src="https://i.postimg.cc/9QnYCB18/hoodiewithtext.png"
+              src="https://i.ibb.co/Z2KvprX/hoodiewithtext.png"
               alt="hoodiewithtext-img"
             />
             <p className="text-left text-lg">hoodie with text</p>
@@ -62,7 +62,7 @@ const Hoodies = () => {
           <div className="p-3 bg-white dark:bg-gray-800">
             <img
               className="w-48 h-64 hover:border-4 hover:border-black"
-              src="https://i.postimg.cc/hv4QfcW0/blackzipuphoodie.png"
+              src="https://i.ibb.co/g9my4Gf/blackzipuphoodie.png"
               alt="blackzipuphoodie-img"
             />
             <p className="text-left text-lg">black zip-up hoodie</p>
