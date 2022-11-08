@@ -13,7 +13,7 @@ const MensSection = () => {
           <div className="p-2 bg-white dark:bg-gray-800">
             <img
               className="w-48 h-64 hover:border-4 hover:border-black"
-              src="https://i.postimg.cc/pTKqfrtD/floralshirt.png"
+              src="https://i.ibb.co/c2qFyJp/floralshirt.png"
               alt="floraltshirt-img"
             />
             <p className="text-left text-lg ">Floral Shirt</p>
@@ -23,7 +23,7 @@ const MensSection = () => {
           <div className="p-2 bg-white dark:bg-gray-800">
             <img
               className="w-48 h-64 hover:border-4 hover:border-black"
-              src="https://i.postimg.cc/Qx807jYT/camovest.png"
+              src="https://i.ibb.co/VYSwv7c/camovest.png"
               alt="camovest-img"
             />
             <p className="text-left text-lg">Camo Vest</p>
@@ -33,7 +33,7 @@ const MensSection = () => {
           <div className="p-2 bg-white dark:bg-gray-800">
             <img
               className="w-48 h-64 hover:border-4 hover:border-black"
-              src="https://i.postimg.cc/zfgjNvv9/yellowtshirt.png"
+              src="https://i.ibb.co/fd2d14m/yellowtshirt.png"
               alt="yellotshirt-img"
             />
             <p className="text-left text-lg">Yellow T-Shirt</p>
@@ -43,7 +43,7 @@ const MensSection = () => {
           <div className="p-2 bg-white dark:bg-gray-800">
             <img
               className="w-48 h-64 hover:border-4 hover:border-black"
-              src="https://i.postimg.cc/NMvxjtrL/whiteandblacktshirt.png"
+              src="https://i.ibb.co/PCFWq3c/whiteandblacktshirt.png"
               alt="whiteandblacktshirt-img"
             />
             <p className="text-left text-lg">White & Black Tshirt</p>

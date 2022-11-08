@@ -11,7 +11,7 @@ const Categories = () => {
           <div className="w-60 m-4 bg-white shadow-md dark:bg-gray-800 border-black border rounded-tl-xl rounded-br-xl">
             <img
               className="p-8 rounded-t-lg w-60 h-60 zoom"
-              src="https://i.postimg.cc/K80vVscW/hats.png"
+              src="https://i.ibb.co/PTByCQ2/hats.png"
               alt="hat-img"
             />
             <div className="px-5 pb-5 text-center">
@@ -29,7 +29,7 @@ const Categories = () => {
           <div className="w-60 m-4 bg-white shadow-md dark:bg-gray-800 border-black border rounded-tl-xl rounded-br-xl">
             <img
               className="p-8 rounded-t-lg w-60 h-60 zoom"
-              src="https://i.postimg.cc/xdYQ9J9h/jackets.png"
+              src="https://i.ibb.co/2gZ7HbY/jackets.png"
               alt="jackets-img"
             />
             <div className="px-5 pb-5 text-center">
@@ -47,7 +47,7 @@ const Categories = () => {
           <div className="w-60 m-4 bg-white shadow-md dark:bg-gray-800 border-black border rounded-tl-xl rounded-br-xl">
             <img
               className="p-8 rounded-t-lg w-60 h-60 zoom"
-              src="https://i.postimg.cc/k5qtjd0V/sneakers.jpg"
+              src="https://i.ibb.co/N2jty1G/sneakers.jpg"
               alt="sneakers-img"
             />
             <div className="px-5 pb-5 text-center">
@@ -65,7 +65,7 @@ const Categories = () => {
           <div className="w-60 m-4 bg-white shadow-md dark:bg-gray-800 border-black border rounded-tl-xl rounded-br-xl">
             <img
               className="p-8 rounded-t-lg w-60 h-60 zoom"
-              src="https://i.postimg.cc/QCvcpxwp/formals.png"
+              src="https://i.ibb.co/9cWS6Kc/formals.png"
               alt="formals-img"
             />
             <div className="px-5 pb-5 text-center">
@@ -83,7 +83,7 @@ const Categories = () => {
           <div className="w-60 m-4 bg-white shadow-md dark:bg-gray-800 border-black border rounded-tl-xl rounded-br-xl">
             <img
               className="p-8 rounded-t-lg w-60 h-60 zoom"
-              src="https://i.postimg.cc/gJxQQ1Rp/joggers.jpg"
+              src="https://i.ibb.co/C0nYcbk/joggers.jpg"
               alt="joggers-img"
             />
             <div className="px-5 pb-5 text-center">
@@ -101,7 +101,7 @@ const Categories = () => {
           <div className="w-60 m-4 bg-white shadow-md dark:bg-gray-800 border-black border rounded-tl-xl rounded-br-xl">
             <img
               className="p-8 rounded-t-lg w-60 h-60 zoom"
-              src="https://i.postimg.cc/d3wbJw4j/hoodies.png"
+              src="https://i.ibb.co/J2fKtHB/hoodies.png"
               alt="hoodies-img"
             />
             <div className="px-5 pb-5 text-center">
@@ -123,7 +123,7 @@ const Categories = () => {
           <div className="w-80 m-4 bg-white shadow-md dark:bg-gray-800 border-black border rounded-t-xl">
             <img
               className="p-8 rounded-t-lg "
-              src="https://i.postimg.cc/xCjrHvmV/women.png"
+              src="https://i.ibb.co/HHXxwWY/women.png"
               alt="women-img"
             />
             <div className="px-5 pb-5 text-center">
@@ -141,7 +141,7 @@ const Categories = () => {
           <div className="w-80 m-4 bg-white shadow-md dark:bg-gray-800 border-black border rounded-t-xl">
             <img
               className="p-8 rounded-t-lg "
-              src="https://i.postimg.cc/MKyB1DHK/men.jpg"
+              src="https://i.ibb.co/cT1Rps9/men.jpg"
               alt="hatimage"
             />
             <div className="px-5 pb-5 text-center">

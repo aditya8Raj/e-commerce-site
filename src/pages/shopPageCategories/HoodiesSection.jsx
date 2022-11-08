@@ -13,7 +13,7 @@ const HoodiesSection = () => {
           <div className="p-2 bg-white dark:bg-gray-800">
             <img
               className="w-48 h-64 hover:border-4 hover:border-black"
-              src="https://i.postimg.cc/t4KpKK0B/printedhoodie.png"
+              src="https://i.ibb.co/NSmNk6J/printedhoodie.png"
               alt="printedhoodie-img"
             />
             <p className="text-left text-lg">Printed Hoodie</p>
@@ -23,7 +23,7 @@ const HoodiesSection = () => {
           <div className="p-2 bg-white dark:bg-gray-800">
             <img
               className="w-48 h-64 hover:border-4 hover:border-black"
-              src="https://i.postimg.cc/44Hkg85M/woolenhoodie.png"
+              src="https://i.ibb.co/hF4zCq6/woolenhoodie.png"
               alt="woolenhoodie-img"
             />
             <p className="text-left text-lg">Woollen Hoodie</p>
@@ -33,7 +33,7 @@ const HoodiesSection = () => {
           <div className="p-2 bg-white dark:bg-gray-800">
             <img
               className="w-48 h-64 hover:border-4 hover:border-black"
-              src="https://i.postimg.cc/cJz9kSVJ/hoodieblack.png"
+              src="https://i.ibb.co/qsTjcrZ/hoodieblack.png"
               alt="hoodieblack-img"
             />
             <p className="text-left text-lg">Black Hoodie</p>
@@ -43,7 +43,7 @@ const HoodiesSection = () => {
           <div className="p-2 bg-white dark:bg-gray-800">
             <img
               className="w-48 h-64 hover:border-4 hover:border-black"
-              src="https://i.postimg.cc/9QnYCB18/hoodiewithtext.png"
+              src="https://i.ibb.co/Z2KvprX/hoodiewithtext.png"
               alt="hoodiewithtext-img"
             />
             <p className="text-left text-lg">Hoodie with text</p>

@@ -13,7 +13,7 @@ const JacketsSection = () => {
           <div className="p-2 bg-white dark:bg-gray-800">
             <img
               className="w-48 h-64 hover:border-4 hover:border-black"
-              src="https://i.postimg.cc/mDqhvfhg/blackjacket.png"
+              src="https://i.ibb.co/Tm57YfZ/blackjacket.png"
               alt="blackjacket-img"
             />
             <p className="text-left text-lg">Black Jacket</p>
@@ -23,7 +23,7 @@ const JacketsSection = () => {
           <div className="p-2 bg-white dark:bg-gray-800">
             <img
               className="w-48 h-64 hover:border-4 hover:border-black"
-              src="https://i.postimg.cc/GpLKXN4f/bluewinterjacket.png"
+              src="https://i.ibb.co/s13tYNf/bluewinterjacket.png"
               alt="bluewinterjacket-img"
             />
             <p className="text-left text-lg">Blue Winter Jacket</p>
@@ -33,7 +33,7 @@ const JacketsSection = () => {
           <div className="p-2 bg-white dark:bg-gray-800">
             <img
               className="w-48 h-64 hover:border-4 hover:border-black"
-              src="https://i.postimg.cc/vH75Chww/bluejeanjacket.png"
+              src="https://i.ibb.co/fqkSyj8/bluejeanjacket.png"
               alt="bluejeanjacket-img"
             />
             <p className="text-left text-lg">Blue Jean Jacket</p>
@@ -43,7 +43,7 @@ const JacketsSection = () => {
           <div className="p-2 bg-white dark:bg-gray-800">
             <img
               className="w-48 h-64 hover:border-4 hover:border-black"
-              src="https://i.postimg.cc/4xLHTF8q/denimjacket.png"
+              src="https://i.ibb.co/d71FkXm/denimjacket.png"
               alt="denimjacket-img"
             />
             <p className="text-left text-lg">Denim Jacket</p>

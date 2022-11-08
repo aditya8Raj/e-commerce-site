@@ -13,7 +13,7 @@ const FormalsSection = () => {
           <div className="p-2 bg-white dark:bg-gray-800">
             <img
               className="w-48 h-64 hover:border-4 hover:border-black"
-              src="https://i.postimg.cc/sDrdmjJD/blueformalpants.png"
+              src="https://i.ibb.co/WxMNwDF/blueformalpants.png"
               alt="blueformalpants-img"
             />
             <p className="text-left text-lg">Blue Formal Pants</p>
@@ -23,7 +23,7 @@ const FormalsSection = () => {
           <div className="p-2 bg-white dark:bg-gray-800">
             <img
               className="w-48 h-64 hover:border-4 hover:border-black"
-              src="https://i.postimg.cc/FHH6C7km/womenformals.png"
+              src="https://i.ibb.co/zb7YfWS/womenformals.png"
               alt="womenformals-img"
             />
             <p className="text-left text-lg">Women Formals</p>
@@ -33,7 +33,7 @@ const FormalsSection = () => {
           <div className="p-2 bg-white dark:bg-gray-800">
             <img
               className="w-48 h-64 hover:border-4 hover:border-black"
-              src="https://i.postimg.cc/mkSd8sbt/navyblueformals.png"
+              src="https://i.ibb.co/84zvykk/navyblueformals.png"
               alt="navyblueformals-img"
             />
             <p className="text-left text-lg">Navy Blue Formal</p>
@@ -43,7 +43,7 @@ const FormalsSection = () => {
           <div className="p-2 bg-white dark:bg-gray-800">
             <img
               className="w-48 h-64 hover:border-4 hover:border-black"
-              src="https://i.postimg.cc/fy5KYfKd/formalshoes.png"
+              src="https://i.ibb.co/bsRwQRP/formalshoes.png"
               alt="formalshoes-img"
             />
             <p className="text-left text-lg">Formal Shoes</p>
