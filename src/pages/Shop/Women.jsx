@@ -12,7 +12,7 @@ const Women = () => {
           <div className="p-3 bg-white dark:bg-gray-800">
             <img
               className="w-48 h-64 hover:border-4 hover:border-black"
-              src="https://i.postimg.cc/cJ07nScz/floraldress.png"
+              src="https://i.ibb.co/Ld08G70/floraldress.png"
               alt="floraltdress-img"
             />
             <p className="text-left text-lg">floral dress</p>
@@ -22,7 +22,7 @@ const Women = () => {
           <div className="p-3 bg-white dark:bg-gray-800">
             <img
               className="w-48 h-64 hover:border-4 hover:border-black"
-              src="https://i.postimg.cc/zD6nkWjK/tanktop.png"
+              src="https://i.ibb.co/XXk8w6h/tanktop.png"
               alt="tanktop-img"
             />
             <p className="text-left text-lg">tank top</p>
@@ -32,7 +32,7 @@ const Women = () => {
           <div className="p-3 bg-white dark:bg-gray-800">
             <img
               className="w-48 h-64 hover:border-4 hover:border-black"
-              src="https://i.postimg.cc/qRYCjV84/floraltop.png"
+              src="https://i.ibb.co/47yDXK7/floraltop.png"
               alt="floraltop-img"
             />
             <p className="text-left text-lg">floral top</p>
@@ -42,7 +42,7 @@ const Women = () => {
           <div className="p-3 bg-white dark:bg-gray-800">
             <img
               className="w-48 h-64 hover:border-4 hover:border-black"
-              src="https://i.postimg.cc/DwdYWFGW/blackdress.png"
+              src="https://i.ibb.co/fkymgds/blackdress.png"
               alt="blackdress-img"
             />
             <p className="text-left text-lg">black dress</p>
@@ -52,7 +52,7 @@ const Women = () => {
           <div className="p-3 bg-white dark:bg-gray-800">
             <img
               className="w-48 h-64 hover:border-4 hover:border-black"
-              src="https://i.postimg.cc/qMtPhFcs/blueandwhitestrippedtop.png"
+              src="https://i.ibb.co/80dTY4L/blueandwhitestrippedtop.png"
               alt="blueandwhitestrippedtopdress-img"
             />
             <p className="text-left text-lg">blue & white stripped top</p>
@@ -62,7 +62,7 @@ const Women = () => {
           <div className="p-3 bg-white dark:bg-gray-800">
             <img
               className="w-48 h-64 hover:border-4 hover:border-black"
-              src="https://i.postimg.cc/433qGF3H/bottomupshirt.png"
+              src="https://i.ibb.co/933jQJr/bottomupshirt.png"
               alt="bottomupshirt-img"
             />
             <p className="text-left text-lg">bottom-up shirt</p>
