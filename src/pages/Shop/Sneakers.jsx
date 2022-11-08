@@ -12,7 +12,7 @@ const Sneakers = () => {
           <div className="p-3 bg-white dark:bg-gray-800">
             <img
               className="w-48 h-64 hover:border-4 hover:border-black"
-              src="https://i.postimg.cc/7LbkpKcB/nikejordan.png"
+              src="https://i.ibb.co/cNNJJ36/nikejordan.png"
               alt="nikejordan-img"
             />
             <p className="text-left text-lg">nike jordans</p>
@@ -22,7 +22,7 @@ const Sneakers = () => {
           <div className="p-3 bg-white dark:bg-gray-800">
             <img
               className="w-48 h-64 hover:border-4 hover:border-black"
-              src="https://i.postimg.cc/nVGPGvSM/pumawhitesneakers.png"
+              src="https://i.ibb.co/YPv8bkV/pumawhitesneakers.png"
               alt="pumawhitesneakers-img"
             />
             <p className="text-left text-lg">puma white sneakers</p>
@@ -32,7 +32,7 @@ const Sneakers = () => {
           <div className="p-3 bg-white dark:bg-gray-800">
             <img
               className="w-48 h-64 hover:border-4 hover:border-black"
-              src="https://i.postimg.cc/mDRSPnsj/adidassuperstar.png"
+              src="https://i.ibb.co/84gqrhy/adidassuperstar.png"
               alt="adidassuperstar-img"
             />
             <p className="text-left text-lg">adidas superstar</p>
@@ -42,7 +42,7 @@ const Sneakers = () => {
           <div className="p-3 bg-white dark:bg-gray-800">
             <img
               className="w-48 h-64 hover:border-4 hover:border-black"
-              src="https://i.postimg.cc/yYWy39wM/blacksneakers.png"
+              src="https://i.ibb.co/2kSn6gP/blacksneakers.png"
               alt="blacksneakers-img"
             />
             <p className="text-left text-lg">black sneakers</p>
@@ -52,7 +52,7 @@ const Sneakers = () => {
           <div className="p-3 bg-white dark:bg-gray-800">
             <img
               className="w-48 h-64 hover:border-4 hover:border-black"
-              src="https://i.postimg.cc/HLTkdHGW/nikesneakers.png"
+              src="https://i.ibb.co/4RhBjfK/nikesneakers.png"
               alt="nikesneakers-img"
             />
             <p className="text-left text-lg">nike sneakers</p>
@@ -62,7 +62,7 @@ const Sneakers = () => {
           <div className="p-3 bg-white dark:bg-gray-800">
             <img
               className="w-48 h-64 hover:border-4 hover:border-black"
-              src="https://i.postimg.cc/WbRDCB4z/blackandwhitesneakers.png"
+              src="https://i.ibb.co/NZFMyDG/blackandwhitesneakers.png"
               alt="blackandwhitesneakers-img"
             />
             <p className="text-left text-lg">black & white sneakers</p>
