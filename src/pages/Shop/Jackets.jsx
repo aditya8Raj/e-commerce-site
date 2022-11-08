@@ -12,7 +12,7 @@ const Jackets = () => {
           <div className="p-3 bg-white dark:bg-gray-800">
             <img
               className="w-48 h-64 hover:border-4 hover:border-black"
-              src="https://i.postimg.cc/mDqhvfhg/blackjacket.png"
+              src="https://i.ibb.co/Tm57YfZ/blackjacket.png"
               alt="blackjacket-img"
             />
             <p className="text-left text-lg">black jacket</p>
@@ -22,7 +22,7 @@ const Jackets = () => {
           <div className="p-3 bg-white dark:bg-gray-800">
             <img
               className="w-48 h-64 hover:border-4 hover:border-black"
-              src="https://i.postimg.cc/GpLKXN4f/bluewinterjacket.png"
+              src="https://i.ibb.co/s13tYNf/bluewinterjacket.png"
               alt="bluewinterjacket-img"
             />
             <p className="text-left text-lg">blue winter jacket</p>
@@ -32,7 +32,7 @@ const Jackets = () => {
           <div className="p-3 bg-white dark:bg-gray-800">
             <img
               className="w-48 h-64 hover:border-4 hover:border-black"
-              src="https://i.postimg.cc/vH75Chww/bluejeanjacket.png"
+              src="https://i.ibb.co/fqkSyj8/bluejeanjacket.png"
               alt="bluejeanjacket-img"
             />
             <p className="text-left text-lg">blue jean jacket</p>
@@ -42,7 +42,7 @@ const Jackets = () => {
           <div className="p-3 bg-white dark:bg-gray-800">
             <img
               className="w-48 h-64 hover:border-4 hover:border-black"
-              src="https://i.postimg.cc/4xLHTF8q/denimjacket.png"
+              src="https://i.ibb.co/d71FkXm/denimjacket.png"
               alt="denimjacket-img"
             />
             <p className="text-left text-lg">denim jacket</p>
@@ -52,7 +52,7 @@ const Jackets = () => {
           <div className="p-3 bg-white dark:bg-gray-800">
             <img
               className="w-48 h-64 hover:border-4 hover:border-black"
-              src="https://i.postimg.cc/857MHTnP/blackleatherjacket.png"
+              src="https://i.ibb.co/0tvJcVg/blackleatherjacket.png"
               alt="blackleatherjacket-img"
             />
             <p className="text-left text-lg">black leather jacket</p>
@@ -62,7 +62,7 @@ const Jackets = () => {
           <div className="p-3 bg-white dark:bg-gray-800">
             <img
               className="w-48 h-64 hover:border-4 hover:border-black"
-              src="https://i.postimg.cc/tJX1cyBx/brownleatherjacket.png"
+              src="https://i.ibb.co/9Y701S9/brownleatherjacket.png"
               alt="brownleatherjacket-img"
             />
             <p className="text-left text-lg">brown leather jacket</p>
