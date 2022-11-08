@@ -12,7 +12,7 @@ const Hats = () => {
           <div className="p-3 bg-white dark:bg-gray-800">
             <img
               className="w-48 h-64 hover:border-4 hover:border-black"
-              src="https://i.postimg.cc/QtXBXg39/baseballcap.png"
+              src="https://i.ibb.co/dWfyQHr/baseballcap.png"
               alt="baseballcap-img"
             />
             <p className="text-left text-lg">baseball cap</p>
@@ -22,7 +22,7 @@ const Hats = () => {
           <div className="p-3 bg-white dark:bg-gray-800">
             <img
               className="w-48 h-64 hover:border-4 hover:border-black"
-              src="https://i.postimg.cc/VL3dSPwc/toque.png"
+              src="https://i.ibb.co/qyzbyTS/toque.png"
               alt="toque-img"
             />
             <p className="text-left text-lg">toque(set of 5)</p>
@@ -32,7 +32,7 @@ const Hats = () => {
           <div className="p-3 bg-white dark:bg-gray-800">
             <img
               className="w-48 h-64 hover:border-4 hover:border-black"
-              src="https://i.postimg.cc/9M8fCvbK/cowboyhat.png"
+              src="https://i.ibb.co/C2zVxxF/cowboyhat.png"
               alt="cowboyhat-img"
             />
             <p className="text-left text-lg">brown cowboy hat</p>
@@ -42,7 +42,7 @@ const Hats = () => {
           <div className="p-3 bg-white dark:bg-gray-800">
             <img
               className="w-48 h-64 hover:border-4 hover:border-black"
-              src="https://i.postimg.cc/mkK2FC0S/sunhat.png"
+              src="https://i.ibb.co/WkFNpY3/sunhat.png"
               alt="sunhat-img"
             />
             <p className="text-left text-lg">sun hat</p>
@@ -52,7 +52,7 @@ const Hats = () => {
           <div className="p-3 bg-white dark:bg-gray-800">
             <img
               className="w-48 h-64 hover:border-4 hover:border-black"
-              src="https://i.postimg.cc/13Sxh2yH/blackhat.png"
+              src="https://i.ibb.co/ZJJ7DGJ/blackhat.png"
               alt="blackhat-img"
             />
             <p className="text-left text-lg">black hat</p>
@@ -62,7 +62,7 @@ const Hats = () => {
           <div className="p-3 bg-white dark:bg-gray-800">
             <img
               className="w-48 h-64 hover:border-4 hover:border-black"
-              src="https://i.postimg.cc/SshVJFtT/creambaseballcap.png"
+              src="https://i.ibb.co/Wv4c6yt/creambaseballcap.png"
               alt="creambaseballcap-img"
             />
             <p className="text-left text-lg">cream baseball cap</p>
